@@ -1,0 +1,35 @@
+.grid {
+    font-size: 10px;
+    text-align: center;
+    width: 15px;
+    height: 15px;
+    /* width:20px;
+    height: 20px; */
+    border: 0px;
+    padding: 0px;
+    margin:0px;
+}
+
+#gridBoard {
+    padding: 10px;
+    background-color: white;
+    table-layout: fixed;
+    border-spacing: 0px;
+}
+.d0 {
+    background-color: red;
+    color: #00FFFF;
+}
+.d1 {
+    background-color: green;
+    color: #FF00FF;
+}
+
+.d2 {
+    background-color: blue;
+    color: #FFFF00;
+}
+.d3 {
+    background-color: black;
+    color: white;
+}
